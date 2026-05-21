@@ -1,0 +1,2 @@
+[32mINFO    [0m automation:test_positive.py:20 Opening Myntra homepage
+[32mINFO    [0m automation:test_positive.py:23 Locating Beauty menu

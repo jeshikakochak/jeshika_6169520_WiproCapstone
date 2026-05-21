@@ -15,7 +15,7 @@ class HomePage:
     BEAUTY_MENU = (By.XPATH, "//a[contains(text(),'Beauty')]")
 
     def open_homepage(self):
-        self.driver.get("https://www.myntra.com")
+        self.driver.get("https://www.myntra.com/")
 
     def search_product(self, product_name):
         search = self.wait.until(
@@ -31,4 +31,4 @@ class HomePage:
         )
 
         actions = ActionChains(self.driver)
-        actions.move_to_element(beauty).perform()
+        actions.move_to_element(beauty).pause(2).perform()

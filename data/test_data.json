@@ -3,7 +3,7 @@
         "test_case": "TC_01",
         "type": "positive",
         "product_name": "",
-        "expected_result": "Homepage opens successfully"
+        "expected_result": "Homepage opens and product is selected"
     },
     {
         "test_case": "TC_02",
@@ -25,7 +25,7 @@
         "subcategory": "Lip Balm",
         "expected_result": "Product added to cart"
     },
-    """,{
+    {
         "test_case": "TC_05",
         "type": "negative",
         "product_name": "heels",
@@ -35,6 +35,6 @@
         "test_case": "TC_06",
         "type": "negative",
         "product_name": "xyzlipbalm999",
-        "expected_result": "No products found"
-    }"""
+        "expected_result": "still products showing"
+    }
 ]

@@ -1,0 +1,53 @@
+2026-05-21 17:55:52,949 : INFO : Opened Myntra homepage
+2026-05-21 17:55:56,298 : INFO : Entered invalid product in search
+2026-05-21 17:55:56,391 : INFO : Invalid search testcase passed
+2026-05-21 17:56:53,904 : INFO : Opened product page
+2026-05-21 17:56:53,935 : INFO : Multiple size options verified
+2026-05-21 17:56:54,275 : INFO : Clicked Add to Bag without selecting size
+2026-05-21 17:57:04,352 : INFO : Negative testcase passed
+2026-05-21 17:57:42,276 : INFO : Opening Myntra homepage
+2026-05-21 17:57:46,331 : INFO : Locating Beauty menu
+2026-05-21 17:57:46,396 : INFO : Hovering over Beauty menu
+2026-05-21 17:57:49,691 : INFO : Checking Lip Balm visibility
+2026-05-21 17:57:49,731 : INFO : Beauty navigation test passed
+2026-05-21 17:58:27,979 : INFO : Opening Myntra homepage
+2026-05-21 17:58:34,054 : INFO : Checking popup
+2026-05-21 17:58:44,110 : INFO : No popup found
+2026-05-21 17:58:44,111 : INFO : Hovering over Beauty menu
+2026-05-21 17:58:46,442 : INFO : Clicking Lip Balm
+2026-05-21 17:58:49,922 : INFO : Opening first product
+2026-05-21 17:58:50,261 : INFO : Waiting for product page
+2026-05-21 17:58:53,415 : INFO : Homepage to product test passed
+2026-05-21 17:59:31,686 : INFO : Opening Myntra homepage
+2026-05-21 17:59:36,275 : INFO : Checking popup
+2026-05-21 17:59:46,310 : INFO : No popup found
+2026-05-21 17:59:46,311 : INFO : Hovering over Beauty menu
+2026-05-21 17:59:46,692 : INFO : Opening Lip Balm listing page
+2026-05-21 17:59:52,794 : INFO : Lip Balm listing test passed
+2026-05-21 18:00:32,393 : INFO : Opening Myntra homepage
+2026-05-21 18:00:37,454 : INFO : Hovering over Beauty menu
+2026-05-21 18:00:40,787 : INFO : Opening Lip Balm category
+2026-05-21 18:00:42,972 : INFO : Selecting product
+2026-05-21 18:00:46,134 : INFO : Selecting size if required
+2026-05-21 18:00:46,301 : INFO : Adding product to cart
+2026-05-21 18:00:46,477 : INFO : Verifying cart
+2026-05-21 18:00:46,949 : INFO : Add to cart test passed
+2026-05-21 18:01:29,431 : INFO : Starting E2E test for Lip Balm
+2026-05-21 18:01:36,607 : INFO : Checking popup
+2026-05-21 18:01:46,630 : INFO : No popup found
+2026-05-21 18:01:46,630 : INFO : Hovering over Beauty menu
+2026-05-21 18:01:47,262 : INFO : Selecting product category: Lip Balm
+2026-05-21 18:01:57,415 : INFO : Waiting for product listings
+2026-05-21 18:01:57,457 : INFO : Opening first product
+2026-05-21 18:01:57,547 : INFO : Switched to new tab
+2026-05-21 18:01:57,548 : INFO : Waiting for product page
+2026-05-21 18:02:02,724 : INFO : Selecting size
+2026-05-21 18:02:02,784 : INFO : Adding product to bag
+2026-05-21 18:02:02,845 : INFO : Going to bag
+2026-05-21 18:02:08,397 : INFO : Waiting for cart
+2026-05-21 18:02:08,598 : INFO : Opening quantity dropdown
+2026-05-21 18:02:08,686 : INFO : Changing quantity to 2
+2026-05-21 18:02:08,865 : INFO : Selecting donation
+2026-05-21 18:02:08,920 : INFO : Clicking Place Order
+2026-05-21 18:02:14,125 : INFO : Waiting for login redirect
+2026-05-21 18:02:14,403 : INFO : E2E test passed

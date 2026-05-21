@@ -1,0 +1,3 @@
+[32mINFO    [0m automation:test_negative.py:21 Opened Myntra homepage
+[32mINFO    [0m automation:test_negative.py:33 Entered invalid product in search
+[32mINFO    [0m automation:test_negative.py:48 Invalid search testcase passed
