@@ -1,0 +1,8 @@
+[32mINFO    [0m automation:test_positive.py:185 Opening Myntra homepage
+[32mINFO    [0m automation:test_positive.py:189 Hovering over Beauty menu
+[32mINFO    [0m automation:test_positive.py:198 Opening Lip Balm category
+[32mINFO    [0m automation:test_positive.py:207 Selecting product
+[32mINFO    [0m automation:test_positive.py:224 Selecting size if required
+[32mINFO    [0m automation:test_positive.py:238 Adding product to cart
+[32mINFO    [0m automation:test_positive.py:246 Verifying cart
+[32mINFO    [0m automation:test_positive.py:254 Add to cart test passed

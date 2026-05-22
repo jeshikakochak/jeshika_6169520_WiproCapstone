@@ -1,0 +1,6 @@
+[32mINFO    [0m automation:test_positive.py:128 Opening Myntra homepage
+[32mINFO    [0m automation:test_positive.py:133 Checking popup
+[32mINFO    [0m automation:test_positive.py:142 No popup found
+[32mINFO    [0m automation:test_positive.py:144 Hovering over Beauty menu
+[32mINFO    [0m automation:test_positive.py:159 Opening Lip Balm listing page
+[32mINFO    [0m automation:test_positive.py:168 Lip Balm listing test passed

@@ -1,0 +1,4 @@
+[32mINFO    [0m automation:test_negative.py:68 Opened product page
+[32mINFO    [0m automation:test_negative.py:77 Multiple size options verified
+[32mINFO    [0m automation:test_negative.py:85 Clicked Add to Bag without selecting size
+[32mINFO    [0m automation:test_negative.py:98 Negative testcase passed
