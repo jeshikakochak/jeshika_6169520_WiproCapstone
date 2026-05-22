@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 
-from utils.setup_logger import LogGen
+from utils.logger import LogGen
 
 logger = LogGen.loggen()
 
@@ -62,7 +62,7 @@ def test_invalid_search_in_beauty(driver):
         name="Invalid Search",
         attachment_type=allure.attachment_type.PNG
     )
-
+#---------------------------------------------------
 
 @allure.title("Add Product Without Selecting Size")
 def test_add_to_bag_without_selecting_size(driver):

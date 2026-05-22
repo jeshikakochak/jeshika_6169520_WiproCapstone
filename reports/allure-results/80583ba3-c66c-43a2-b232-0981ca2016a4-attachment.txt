@@ -1,8 +1,0 @@
-[32mINFO    [0m automation:test_positive.py:59 Opening Myntra homepage
-[32mINFO    [0m automation:test_positive.py:64 Checking popup
-[32mINFO    [0m automation:test_positive.py:74 No popup found
-[32mINFO    [0m automation:test_positive.py:76 Hovering over Beauty menu
-[32mINFO    [0m automation:test_positive.py:85 Clicking Lip Balm
-[32mINFO    [0m automation:test_positive.py:94 Opening first product
-[32mINFO    [0m automation:test_positive.py:106 Waiting for product page
-[32mINFO    [0m automation:test_positive.py:114 Homepage to product test passed

@@ -1,5 +1,0 @@
-[32mINFO    [0m automation:test_positive.py:20 Opening Myntra homepage
-[32mINFO    [0m automation:test_positive.py:23 Locating Beauty menu
-[32mINFO    [0m automation:test_positive.py:30 Hovering over Beauty menu
-[32mINFO    [0m automation:test_positive.py:33 Checking Lip Balm visibility
-[32mINFO    [0m automation:test_positive.py:41 Beauty navigation test passed

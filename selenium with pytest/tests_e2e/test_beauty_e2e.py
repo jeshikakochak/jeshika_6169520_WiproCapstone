@@ -1,8 +1,7 @@
 import pytest
 import allure
 from utils.csv_reader import get_csv_data
-from utils.setup_logger import LogGen
-
+from utils.logger import LogGen
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
@@ -10,8 +9,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import ElementClickInterceptedException
 
 logger = LogGen.loggen()
-
-
 @pytest.mark.parametrize(
     "product",
     get_csv_data("data/product.csv")

@@ -1,5 +1,5 @@
 import allure
-from utils.setup_logger import LogGen
+from utils.logger import LogGen
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
@@ -48,7 +48,7 @@ def test_beauty_navigation(driver):
         name="Beauty Navigation",
         attachment_type=allure.attachment_type.PNG
     )
-
+#----------------------------------------------------
 
 @allure.title("Open Product from Homepage")
 def test_homepage_to_beauty_product(driver):
@@ -131,7 +131,7 @@ def test_homepage_to_beauty_product(driver):
         name="Homepage Product",
         attachment_type=allure.attachment_type.PNG
     )
-
+#-------------------------------------------------------
 
 @allure.title("Open Lip Balm Listings")
 def test_open_lipbalm_products(driver):
@@ -200,7 +200,7 @@ def test_open_lipbalm_products(driver):
         attachment_type=allure.attachment_type.PNG
     )
 
-
+#---------------------------------------------------
 @allure.title("Add Lip Balm to Cart")
 def test_add_lipbalm_to_cart(driver):
 
