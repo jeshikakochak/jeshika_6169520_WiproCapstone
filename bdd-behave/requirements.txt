@@ -1,8 +1,8 @@
 selenium
 behave
-webdriver-manager
 allure-behave
-pytest
 openpyxl
-configparser
-gherkin-official
+webdriver-manager
+pytest
+allure-python-commons
+

@@ -5,7 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/myntra/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.13 (bdd-behave) (3)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.11 (bdd-behave)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

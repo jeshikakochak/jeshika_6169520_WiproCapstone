@@ -1,0 +1,474 @@
+2026-05-23 01:30:16,548 : INFO : Starting test runner
+2026-05-23 01:30:16,566 : INFO : BDD Behave execution started
+2026-05-23 01:30:17,105 : INFO : Starting scenario: Complete beauty purchase flow
+2026-05-23 01:31:14,392 : INFO : Completed scenario: Complete beauty purchase flow
+2026-05-23 01:46:47,337 : INFO : Starting test runner
+2026-05-23 01:46:47,340 : INFO : BDD Behave execution started
+2026-05-23 01:46:48,005 : INFO : Starting scenario: Complete beauty purchase flow
+2026-05-23 01:47:44,108 : INFO : Completed scenario: Complete beauty purchase flow
+2026-05-23 01:57:39,594 : INFO : Starting test runner
+2026-05-23 01:57:39,598 : INFO : BDD execution started
+2026-05-23 01:57:40,666 : INFO : Starting scenario: Complete beauty purchase flow
+2026-05-23 01:58:51,858 : INFO : Completed scenario: Complete beauty purchase flow
+2026-05-23 02:10:31,753 : INFO : Starting execution
+2026-05-23 02:11:45,769 : INFO : Execution completed
+2026-05-23 02:18:20,389 : INFO : Starting execution
+2026-05-23 02:19:02,674 : INFO : Execution completed
+2026-05-23 02:29:41,430 : INFO : ========================================
+2026-05-23 02:29:41,430 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 02:29:41,431 : INFO : Deleting old allure-results folder
+2026-05-23 02:29:41,434 : INFO : Deleting old allure-report folder
+2026-05-23 02:29:41,448 : INFO : Starting Behave Execution
+2026-05-23 02:31:15,710 : INFO : Behave completed with status code: 0
+2026-05-23 02:31:15,710 : INFO : Generating Allure Report
+2026-05-23 02:31:19,485 : INFO : Allure report generated with status code: 0
+2026-05-23 02:31:19,485 : INFO : Opening Allure Report
+2026-05-23 02:45:46,742 : INFO : ========================================
+2026-05-23 02:45:46,742 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 02:45:46,743 : INFO : Deleting old allure-results folder
+2026-05-23 02:45:46,750 : INFO : Deleting old allure-report folder
+2026-05-23 02:45:46,775 : INFO : Starting Behave Execution
+2026-05-23 02:48:08,745 : INFO : Behave completed with status code: 1
+2026-05-23 02:48:08,746 : INFO : Generating Allure Report
+2026-05-23 02:48:12,949 : INFO : Allure report generated with status code: 0
+2026-05-23 02:48:12,949 : INFO : Opening Allure Report
+2026-05-23 02:52:07,201 : INFO : ========================================
+2026-05-23 02:52:07,201 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 02:52:07,202 : INFO : Starting Behave Execution
+2026-05-23 02:54:17,652 : INFO : Behave completed with status code: 0
+2026-05-23 02:54:17,652 : INFO : Generating Allure Report
+2026-05-23 02:54:21,469 : INFO : Allure report generated with status code: 0
+2026-05-23 02:54:21,469 : INFO : Opening Allure Report
+2026-05-23 02:57:24,011 : INFO : ========================================
+2026-05-23 02:57:24,011 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 02:57:24,013 : INFO : Deleting old allure-results folder
+2026-05-23 02:57:24,017 : INFO : Deleting old allure-report folder
+2026-05-23 02:57:24,030 : INFO : Starting Behave Execution
+2026-05-23 02:57:24,921 : INFO : Behave completed with status code: 1
+2026-05-23 02:57:24,921 : INFO : Generating Allure Report
+2026-05-23 02:57:28,656 : INFO : Allure report generated with status code: 0
+2026-05-23 02:57:28,656 : INFO : Opening Allure Report
+2026-05-23 02:58:26,508 : INFO : AUTOMATION EXECUTION COMPLETED
+2026-05-23 02:58:26,508 : INFO : ========================================
+2026-05-23 02:58:31,819 : INFO : ========================================
+2026-05-23 02:58:31,819 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 02:58:31,820 : INFO : Deleting old allure-report folder
+2026-05-23 02:58:31,834 : INFO : Starting Behave Execution
+2026-05-23 02:58:32,842 : INFO : Starting scenario: Complete beauty purchase flow
+2026-05-23 02:59:10,795 : INFO : Completed scenario: Complete beauty purchase flow
+2026-05-23 02:59:10,802 : INFO : Starting scenario: Navigate to Beauty Menu
+2026-05-23 02:59:24,002 : INFO : Completed scenario: Navigate to Beauty Menu
+2026-05-23 02:59:24,006 : INFO : Starting scenario: Open Product from Homepage
+2026-05-23 02:59:41,384 : INFO : Completed scenario: Open Product from Homepage
+2026-05-23 02:59:41,387 : INFO : Starting scenario: Open Lip Balm Listings
+2026-05-23 02:59:58,739 : INFO : Completed scenario: Open Lip Balm Listings
+2026-05-23 02:59:58,744 : INFO : Starting scenario: Add Lip Balm to Cart
+2026-05-23 03:00:12,501 : INFO : Completed scenario: Add Lip Balm to Cart
+2026-05-23 03:00:12,507 : INFO : Starting scenario: Search Invalid Product
+2026-05-23 03:00:23,208 : INFO : Completed scenario: Search Invalid Product
+2026-05-23 03:00:23,212 : INFO : Starting scenario: Add Product Without Selecting Size
+2026-05-23 03:00:33,226 : INFO : Completed scenario: Add Product Without Selecting Size
+2026-05-23 03:00:33,596 : INFO : Behave completed with status code: 0
+2026-05-23 03:00:33,607 : INFO : Generating Allure Report
+2026-05-23 03:00:37,382 : INFO : Allure report generated with status code: 0
+2026-05-23 03:00:37,382 : INFO : Opening Allure Report
+2026-05-23 03:03:23,820 : INFO : AUTOMATION EXECUTION COMPLETED
+2026-05-23 03:03:23,820 : INFO : ========================================
+2026-05-23 03:03:32,213 : INFO : ========================================
+2026-05-23 03:03:32,214 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 03:03:32,214 : INFO : Deleting old allure-results folder
+2026-05-23 03:03:32,219 : INFO : Deleting old allure-report folder
+2026-05-23 03:03:32,236 : INFO : Starting Behave Execution
+2026-05-23 03:03:33,051 : INFO : Behave completed with status code: 1
+2026-05-23 03:03:33,052 : INFO : Generating Allure Report
+2026-05-23 03:03:37,385 : INFO : Allure report generated with status code: 0
+2026-05-23 03:03:37,385 : INFO : Opening Allure Report
+2026-05-23 03:03:53,449 : INFO : AUTOMATION EXECUTION COMPLETED
+2026-05-23 03:03:57,674 : INFO : ========================================
+2026-05-23 03:03:57,674 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 03:03:57,674 : INFO : Deleting old allure-report folder
+2026-05-23 03:03:57,687 : INFO : Starting Behave Execution
+2026-05-23 03:03:59,020 : INFO : Starting scenario: Complete beauty purchase flow
+2026-05-23 03:04:37,892 : INFO : Completed scenario: Complete beauty purchase flow
+2026-05-23 03:04:37,896 : INFO : Starting scenario: Navigate to Beauty Menu
+2026-05-23 03:04:50,469 : INFO : Completed scenario: Navigate to Beauty Menu
+2026-05-23 03:04:50,472 : INFO : Starting scenario: Open Product from Homepage
+2026-05-23 03:05:09,190 : INFO : Completed scenario: Open Product from Homepage
+2026-05-23 03:05:09,193 : INFO : Starting scenario: Open Lip Balm Listings
+2026-05-23 03:05:26,132 : INFO : Completed scenario: Open Lip Balm Listings
+2026-05-23 03:05:26,136 : INFO : Starting scenario: Add Lip Balm to Cart
+2026-05-23 03:05:57,415 : INFO : Completed scenario: Add Lip Balm to Cart
+2026-05-23 03:05:57,421 : INFO : Starting scenario: Search Invalid Product
+2026-05-23 03:06:09,282 : INFO : Completed scenario: Search Invalid Product
+2026-05-23 03:06:09,285 : INFO : Starting scenario: Add Product Without Selecting Size
+2026-05-23 03:06:20,099 : INFO : Completed scenario: Add Product Without Selecting Size
+2026-05-23 03:06:20,195 : INFO : Behave completed with status code: 1
+2026-05-23 03:06:20,195 : INFO : Generating Allure Report
+2026-05-23 03:06:24,280 : INFO : Allure report generated with status code: 0
+2026-05-23 03:06:24,280 : INFO : Opening Allure Report
+2026-05-23 03:07:27,850 : INFO : AUTOMATION EXECUTION COMPLETED
+2026-05-23 03:07:27,850 : INFO : ========================================
+2026-05-23 03:07:32,429 : INFO : ========================================
+2026-05-23 03:07:32,429 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 03:07:32,429 : INFO : Deleting old allure-results folder
+2026-05-23 03:07:32,435 : INFO : Deleting old allure-report folder
+2026-05-23 03:07:32,453 : INFO : Starting Behave Execution
+2026-05-23 03:07:33,818 : INFO : Starting scenario: Complete beauty purchase flow
+2026-05-23 03:08:06,579 : INFO : Completed scenario: Complete beauty purchase flow
+2026-05-23 03:08:06,585 : INFO : Starting scenario: Navigate to Beauty Menu
+2026-05-23 03:08:20,801 : INFO : Completed scenario: Navigate to Beauty Menu
+2026-05-23 03:08:20,804 : INFO : Starting scenario: Open Product from Homepage
+2026-05-23 03:08:39,555 : INFO : Completed scenario: Open Product from Homepage
+2026-05-23 03:08:39,559 : INFO : Starting scenario: Open Lip Balm Listings
+2026-05-23 03:08:57,886 : INFO : Completed scenario: Open Lip Balm Listings
+2026-05-23 03:08:57,889 : INFO : Starting scenario: Add Lip Balm to Cart
+2026-05-23 03:09:13,444 : INFO : Completed scenario: Add Lip Balm to Cart
+2026-05-23 03:09:13,447 : INFO : Starting scenario: Search Invalid Product
+2026-05-23 03:09:23,975 : INFO : Completed scenario: Search Invalid Product
+2026-05-23 03:09:23,978 : INFO : Starting scenario: Add Product Without Selecting Size
+2026-05-23 03:09:33,438 : INFO : Completed scenario: Add Product Without Selecting Size
+2026-05-23 03:09:33,562 : INFO : Behave completed with status code: 0
+2026-05-23 03:09:33,562 : INFO : Generating Allure Report
+2026-05-23 03:09:37,112 : INFO : Allure report generated with status code: 0
+2026-05-23 03:09:37,112 : INFO : Opening Allure Report
+2026-05-23 03:12:51,510 : INFO : ========================================
+2026-05-23 03:12:51,510 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 03:12:51,512 : INFO : Deleting old allure-results folder
+2026-05-23 03:12:51,518 : INFO : Deleting old allure-report folder
+2026-05-23 03:12:51,543 : INFO : Starting Behave Execution
+2026-05-23 03:12:52,766 : INFO : Starting scenario: Complete beauty purchase flow
+2026-05-23 03:13:22,565 : INFO : Completed scenario: Complete beauty purchase flow
+2026-05-23 03:13:22,570 : INFO : Starting scenario: Navigate to Beauty Menu
+2026-05-23 03:13:27,355 : INFO : Completed scenario: Navigate to Beauty Menu
+2026-05-23 03:13:27,358 : INFO : Starting scenario: Open Product from Homepage
+2026-05-23 03:13:31,332 : INFO : Completed scenario: Open Product from Homepage
+2026-05-23 03:13:31,335 : INFO : Starting scenario: Open Lip Balm Listings
+2026-05-23 03:13:35,286 : INFO : Completed scenario: Open Lip Balm Listings
+2026-05-23 03:13:35,290 : INFO : Starting scenario: Add Lip Balm to Cart
+2026-05-23 03:13:39,231 : INFO : Completed scenario: Add Lip Balm to Cart
+2026-05-23 03:13:39,238 : INFO : Starting scenario: Search Invalid Product
+2026-05-23 03:13:43,271 : INFO : Completed scenario: Search Invalid Product
+2026-05-23 03:13:43,274 : INFO : Starting scenario: Add Product Without Selecting Size
+2026-05-23 03:13:47,171 : INFO : Completed scenario: Add Product Without Selecting Size
+2026-05-23 03:13:47,335 : INFO : Behave completed with status code: 1
+2026-05-23 03:13:47,339 : INFO : Generating Allure Report
+2026-05-23 03:13:49,295 : INFO : Allure report generated with status code: -1073741510
+2026-05-23 03:13:49,295 : INFO : Opening Allure Report
+2026-05-23 03:14:30,437 : INFO : ========================================
+2026-05-23 03:14:30,438 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 03:14:30,438 : INFO : Deleting old allure-results folder
+2026-05-23 03:14:30,443 : INFO : Starting Behave Execution
+2026-05-23 03:14:31,758 : INFO : Starting scenario: Complete beauty purchase flow
+2026-05-23 03:15:08,358 : INFO : Completed scenario: Complete beauty purchase flow
+2026-05-23 03:15:10,968 : INFO : Starting scenario: Navigate to Beauty Menu
+2026-05-23 03:15:12,814 : INFO : Completed scenario: Navigate to Beauty Menu
+2026-05-23 03:15:15,576 : INFO : Starting scenario: Open Product from Homepage
+2026-05-23 03:15:16,935 : INFO : Completed scenario: Open Product from Homepage
+2026-05-23 03:15:19,568 : INFO : Starting scenario: Open Lip Balm Listings
+2026-05-23 03:15:20,895 : INFO : Completed scenario: Open Lip Balm Listings
+2026-05-23 03:17:14,644 : INFO : ========================================
+2026-05-23 03:17:14,644 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 03:17:14,644 : INFO : Deleting old allure-results folder
+2026-05-23 03:17:14,647 : INFO : Starting Behave Execution
+2026-05-23 03:17:15,381 : INFO : Behave completed with status code: 1
+2026-05-23 03:17:15,381 : INFO : Generating Allure Report
+2026-05-23 03:17:18,635 : INFO : Allure report generated with status code: 0
+2026-05-23 03:17:18,635 : INFO : Opening Allure Report
+2026-05-23 03:17:34,658 : INFO : AUTOMATION EXECUTION COMPLETED
+2026-05-23 03:17:34,658 : INFO : ========================================
+2026-05-23 03:17:50,885 : INFO : ========================================
+2026-05-23 03:17:50,886 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 03:17:50,886 : INFO : Deleting old allure-report folder
+2026-05-23 03:17:50,900 : INFO : Starting Behave Execution
+2026-05-23 03:17:52,050 : INFO : Starting scenario: Complete beauty purchase flow
+2026-05-23 03:18:21,714 : INFO : Completed scenario: Complete beauty purchase flow
+2026-05-23 03:18:24,408 : INFO : Starting scenario: Navigate to Beauty Menu
+2026-05-23 03:18:26,284 : INFO : Completed scenario: Navigate to Beauty Menu
+2026-05-23 03:18:28,978 : INFO : Starting scenario: Open Product from Homepage
+2026-05-23 03:18:30,326 : INFO : Completed scenario: Open Product from Homepage
+2026-05-23 03:18:32,878 : INFO : Starting scenario: Open Lip Balm Listings
+2026-05-23 03:18:34,208 : INFO : Completed scenario: Open Lip Balm Listings
+2026-05-23 03:18:36,777 : INFO : Starting scenario: Add Lip Balm to Cart
+2026-05-23 03:18:38,000 : INFO : Completed scenario: Add Lip Balm to Cart
+2026-05-23 03:18:40,613 : INFO : Starting scenario: Search Invalid Product
+2026-05-23 03:18:41,955 : INFO : Completed scenario: Search Invalid Product
+2026-05-23 03:18:44,520 : INFO : Starting scenario: Add Product Without Selecting Size
+2026-05-23 03:18:45,857 : INFO : Completed scenario: Add Product Without Selecting Size
+2026-05-23 03:18:48,537 : INFO : Behave completed with status code: 1
+2026-05-23 03:18:48,538 : INFO : Generating Allure Report
+2026-05-23 03:18:52,068 : INFO : Allure report generated with status code: 0
+2026-05-23 03:18:52,068 : INFO : Opening Allure Report
+2026-05-23 03:28:55,788 : INFO : ========================================
+2026-05-23 03:28:55,789 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 03:28:55,789 : INFO : Deleting old allure-results folder
+2026-05-23 03:28:55,799 : INFO : Deleting old allure-report folder
+2026-05-23 03:28:55,816 : INFO : Starting Behave Execution
+2026-05-23 03:28:56,988 : INFO : Behave completed with status code: 1
+2026-05-23 03:28:56,988 : INFO : Generating Allure Report
+2026-05-23 03:29:00,706 : INFO : Allure report generated with status code: 0
+2026-05-23 03:29:00,706 : INFO : Opening Allure Report
+2026-05-23 03:29:24,145 : INFO : AUTOMATION EXECUTION COMPLETED
+2026-05-23 03:29:24,145 : INFO : ========================================
+2026-05-23 03:29:30,265 : INFO : ========================================
+2026-05-23 03:29:30,265 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 03:29:30,265 : INFO : Deleting old allure-report folder
+2026-05-23 03:29:30,278 : INFO : Starting Behave Execution
+2026-05-23 03:29:31,491 : INFO : Starting scenario: Complete beauty purchase flow
+2026-05-23 03:30:12,646 : INFO : Completed scenario: Complete beauty purchase flow
+2026-05-23 03:30:15,300 : INFO : Starting scenario: Navigate to Beauty Menu
+2026-05-23 03:30:17,119 : INFO : Opening Myntra homepage for test cases
+2026-05-23 03:30:21,661 : INFO : Hovering over Beauty menu
+2026-05-23 03:30:24,006 : INFO : Checking Lip Balm category visibility
+2026-05-23 03:30:26,314 : INFO : Completed scenario: Navigate to Beauty Menu
+2026-05-23 03:30:28,832 : INFO : Starting scenario: Open Product from Homepage
+2026-05-23 03:30:30,180 : INFO : Opening Myntra homepage for test cases
+2026-05-23 03:30:34,437 : INFO : Closing popup if present
+2026-05-23 03:30:39,492 : INFO : Hovering over Beauty menu
+2026-05-23 03:30:41,784 : INFO : Opening Lip Balm category
+2026-05-23 03:30:45,019 : INFO : Opening first product
+2026-05-23 03:30:45,092 : INFO : Verifying product page opened
+2026-05-23 03:30:45,098 : INFO : Completed scenario: Open Product from Homepage
+2026-05-23 03:30:47,562 : INFO : Starting scenario: Open Lip Balm Listings
+2026-05-23 03:30:48,703 : INFO : Opening Myntra homepage for test cases
+2026-05-23 03:30:52,518 : INFO : Closing popup if present
+2026-05-23 03:30:57,564 : INFO : Hovering over Beauty menu
+2026-05-23 03:30:59,869 : INFO : Opening Lip Balm category
+2026-05-23 03:31:02,523 : INFO : Checking Lip Balm listing page
+2026-05-23 03:31:02,530 : INFO : Completed scenario: Open Lip Balm Listings
+2026-05-23 03:31:04,882 : INFO : Starting scenario: Add Lip Balm to Cart
+2026-05-23 03:31:06,057 : INFO : Opening Myntra homepage for test cases
+2026-05-23 03:31:09,613 : INFO : Hovering over Beauty menu
+2026-05-23 03:31:11,926 : INFO : Opening Lip Balm category
+2026-05-23 03:31:14,047 : INFO : Opening third product
+2026-05-23 03:31:14,141 : INFO : Selecting size
+2026-05-23 03:31:15,451 : INFO : Adding product to bag
+2026-05-23 03:31:15,492 : INFO : Verifying product added to cart
+2026-05-23 03:31:15,571 : INFO : Completed scenario: Add Lip Balm to Cart
+2026-05-23 03:31:17,969 : INFO : Starting scenario: Search Invalid Product
+2026-05-23 03:31:19,268 : INFO : Opening Myntra homepage for test cases
+2026-05-23 03:31:23,053 : INFO : Completed scenario: Search Invalid Product
+2026-05-23 03:31:25,562 : INFO : Starting scenario: Add Product Without Selecting Size
+2026-05-23 03:31:26,701 : INFO : Completed scenario: Add Product Without Selecting Size
+2026-05-23 03:31:29,110 : INFO : Behave completed with status code: 1
+2026-05-23 03:31:29,110 : INFO : Generating Allure Report
+2026-05-23 03:31:31,359 : INFO : Allure report generated with status code: 0
+2026-05-23 03:31:31,359 : INFO : Opening Allure Report
+2026-05-23 03:38:51,940 : INFO : ========================================
+2026-05-23 03:38:51,942 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 03:38:51,942 : INFO : Deleting old allure-results folder
+2026-05-23 03:38:51,952 : INFO : Deleting old allure-report folder
+2026-05-23 03:38:51,968 : INFO : Starting Behave Execution
+2026-05-23 03:38:52,699 : INFO : Starting scenario: Complete beauty purchase flow
+2026-05-23 03:39:19,626 : INFO : Completed scenario: Complete beauty purchase flow
+2026-05-23 03:39:22,099 : INFO : Starting scenario: Navigate to Beauty Menu
+2026-05-23 03:39:23,688 : INFO : Opening Myntra homepage
+2026-05-23 03:39:27,238 : INFO : Hovering over Beauty menu
+2026-05-23 03:39:29,544 : INFO : Checking Lip Balm category visibility
+2026-05-23 03:39:30,638 : INFO : Completed scenario: Navigate to Beauty Menu
+2026-05-23 03:39:33,042 : INFO : Starting scenario: Open Product from Homepage
+2026-05-23 03:39:34,206 : INFO : Opening Myntra homepage
+2026-05-23 03:39:37,660 : INFO : Closing popup if present
+2026-05-23 03:39:42,704 : INFO : Hovering over Beauty menu
+2026-05-23 03:39:45,027 : INFO : Opening Lip Balm category
+2026-05-23 03:39:46,940 : INFO : Opening first product
+2026-05-23 03:39:47,025 : INFO : Verifying product page
+2026-05-23 03:39:47,032 : INFO : Completed scenario: Open Product from Homepage
+2026-05-23 03:39:49,508 : INFO : Starting scenario: Open Lip Balm Listings
+2026-05-23 03:39:50,668 : INFO : Opening Myntra homepage
+2026-05-23 03:39:54,137 : INFO : Closing popup if present
+2026-05-23 03:39:59,155 : INFO : Hovering over Beauty menu
+2026-05-23 03:40:01,455 : INFO : Opening Lip Balm category
+2026-05-23 03:40:03,484 : INFO : Verifying Lip Balm listing page
+2026-05-23 03:40:03,489 : INFO : Completed scenario: Open Lip Balm Listings
+2026-05-23 03:40:05,921 : INFO : Starting scenario: Add Lip Balm to Cart
+2026-05-23 03:40:07,127 : INFO : Opening Myntra homepage
+2026-05-23 03:40:10,364 : INFO : Hovering over Beauty menu
+2026-05-23 03:40:12,680 : INFO : Opening Lip Balm category
+2026-05-23 03:40:14,798 : INFO : Opening third product
+2026-05-23 03:40:14,888 : INFO : Selecting size if available
+2026-05-23 03:40:16,829 : INFO : Adding product to bag
+2026-05-23 03:40:16,867 : INFO : Verifying cart addition
+2026-05-23 03:40:16,929 : INFO : Completed scenario: Add Lip Balm to Cart
+2026-05-23 03:40:19,413 : INFO : Starting scenario: Search Invalid Product
+2026-05-23 03:40:20,537 : INFO : Opening Myntra homepage
+2026-05-23 03:40:23,874 : INFO : Searching invalid product
+2026-05-23 03:40:26,097 : INFO : Verifying invalid search results
+2026-05-23 03:40:26,276 : INFO : Completed scenario: Search Invalid Product
+2026-05-23 03:40:28,648 : INFO : Starting scenario: Add Product Without Selecting Size
+2026-05-23 03:40:29,769 : INFO : Opening product page
+2026-05-23 03:40:35,216 : INFO : Clicking Add to Bag without selecting size
+2026-05-23 03:40:35,321 : INFO : Verifying negative scenario
+2026-05-23 03:40:35,423 : INFO : Completed scenario: Add Product Without Selecting Size
+2026-05-23 03:40:38,042 : INFO : Behave completed with status code: 1
+2026-05-23 03:40:38,042 : INFO : Generating Allure Report
+2026-05-23 03:40:40,470 : INFO : Allure report generated with status code: 0
+2026-05-23 03:40:40,470 : INFO : Opening Allure Report
+2026-05-23 03:44:26,974 : INFO : ========================================
+2026-05-23 03:44:26,976 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 03:44:26,976 : INFO : Deleting old allure-results folder
+2026-05-23 03:44:26,986 : INFO : Deleting old allure-report folder
+2026-05-23 03:44:27,003 : INFO : Starting Behave Execution
+2026-05-23 03:44:27,724 : INFO : Starting scenario: Complete beauty purchase flow
+2026-05-23 03:44:54,753 : INFO : Completed scenario: Complete beauty purchase flow
+2026-05-23 03:44:57,227 : INFO : Starting scenario: Navigate to Beauty Menu
+2026-05-23 03:44:58,810 : INFO : Opening Myntra homepage
+2026-05-23 03:45:02,562 : INFO : Hovering over Beauty menu
+2026-05-23 03:45:04,885 : INFO : Checking Lip Balm category visibility
+2026-05-23 03:45:05,974 : INFO : Completed scenario: Navigate to Beauty Menu
+2026-05-23 03:45:08,385 : INFO : Starting scenario: Open Product from Homepage
+2026-05-23 03:45:09,523 : INFO : Opening Myntra homepage
+2026-05-23 03:45:12,474 : INFO : Closing popup if present
+2026-05-23 03:45:17,528 : INFO : Hovering over Beauty menu
+2026-05-23 03:45:19,833 : INFO : Opening Lip Balm category
+2026-05-23 03:45:21,739 : INFO : Opening first product
+2026-05-23 03:45:21,814 : INFO : Verifying product page
+2026-05-23 03:45:21,820 : INFO : Completed scenario: Open Product from Homepage
+2026-05-23 03:45:24,311 : INFO : Starting scenario: Open Lip Balm Listings
+2026-05-23 03:45:25,445 : INFO : Opening Myntra homepage
+2026-05-23 03:45:28,761 : INFO : Closing popup if present
+2026-05-23 03:45:33,812 : INFO : Hovering over Beauty menu
+2026-05-23 03:45:36,107 : INFO : Opening Lip Balm category
+2026-05-23 03:45:37,457 : INFO : Verifying Lip Balm listing page
+2026-05-23 03:45:37,465 : INFO : Completed scenario: Open Lip Balm Listings
+2026-05-23 03:45:39,848 : INFO : Starting scenario: Add Lip Balm to Cart
+2026-05-23 03:45:40,972 : INFO : Opening Myntra homepage
+2026-05-23 03:45:44,241 : INFO : Hovering over Beauty menu
+2026-05-23 03:45:46,543 : INFO : Opening Lip Balm category
+2026-05-23 03:45:48,019 : INFO : Opening third product
+2026-05-23 03:45:48,128 : INFO : Selecting size if available
+2026-05-23 03:45:49,524 : INFO : Adding product to bag
+2026-05-23 03:45:49,566 : INFO : Verifying cart addition
+2026-05-23 03:45:49,631 : INFO : Completed scenario: Add Lip Balm to Cart
+2026-05-23 03:45:52,063 : INFO : Starting scenario: Search Invalid Product
+2026-05-23 03:45:53,183 : INFO : Opening Myntra homepage
+2026-05-23 03:45:56,640 : INFO : Searching invalid product
+2026-05-23 03:46:01,309 : INFO : Verifying invalid search results
+2026-05-23 03:46:01,489 : INFO : Completed scenario: Search Invalid Product
+2026-05-23 03:46:03,842 : INFO : Starting scenario: Add Product Without Selecting Size
+2026-05-23 03:46:04,987 : INFO : Opening product page
+2026-05-23 03:46:09,660 : INFO : Clicking Add to Bag without selecting size
+2026-05-23 03:46:09,746 : INFO : Verifying negative scenario
+2026-05-23 03:46:09,873 : INFO : Completed scenario: Add Product Without Selecting Size
+2026-05-23 03:46:12,480 : INFO : Behave completed with status code: 1
+2026-05-23 03:46:12,480 : INFO : Generating Allure Report
+2026-05-23 03:46:14,733 : INFO : Allure report generated with status code: 0
+2026-05-23 03:46:14,735 : INFO : Opening Allure Report
+2026-05-23 03:50:57,447 : INFO : ========================================
+2026-05-23 03:50:57,447 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 03:50:57,447 : INFO : Deleting old allure-results folder
+2026-05-23 03:50:57,453 : INFO : Deleting old allure-report folder
+2026-05-23 03:50:57,467 : INFO : Starting Behave Execution
+2026-05-23 03:50:58,170 : INFO : Starting scenario: Complete beauty purchase flow
+2026-05-23 03:51:27,819 : INFO : Completed scenario: Complete beauty purchase flow
+2026-05-23 03:51:30,273 : INFO : Starting scenario: Navigate to Beauty Menu
+2026-05-23 03:51:31,836 : INFO : Opening Myntra homepage
+2026-05-23 03:51:35,545 : INFO : Hovering over Beauty menu
+2026-05-23 03:51:37,868 : INFO : Checking Lip Balm category visibility
+2026-05-23 03:51:39,312 : INFO : Completed scenario: Navigate to Beauty Menu
+2026-05-23 03:51:41,731 : INFO : Starting scenario: Open Product from Homepage
+2026-05-23 03:51:42,871 : INFO : Opening Myntra homepage
+2026-05-23 03:51:48,303 : INFO : Closing popup if present
+2026-05-23 03:51:53,369 : INFO : Hovering over Beauty menu
+2026-05-23 03:51:55,696 : INFO : Opening Lip Balm category
+2026-05-23 03:51:58,171 : INFO : Opening first product
+2026-05-23 03:51:58,231 : INFO : Verifying product page
+2026-05-23 03:51:58,236 : INFO : Completed scenario: Open Product from Homepage
+2026-05-23 03:52:00,750 : INFO : Starting scenario: Open Lip Balm Listings
+2026-05-23 03:52:01,984 : INFO : Opening Myntra homepage
+2026-05-23 03:52:05,353 : INFO : Closing popup if present
+2026-05-23 03:52:10,382 : INFO : Hovering over Beauty menu
+2026-05-23 03:52:12,709 : INFO : Opening Lip Balm category
+2026-05-23 03:52:14,388 : INFO : Verifying Lip Balm listing page
+2026-05-23 03:52:14,393 : INFO : Completed scenario: Open Lip Balm Listings
+2026-05-23 03:52:17,183 : INFO : Starting scenario: Add Lip Balm to Cart
+2026-05-23 03:52:18,306 : INFO : Opening Myntra homepage
+2026-05-23 03:52:21,620 : INFO : Hovering over Beauty menu
+2026-05-23 03:52:23,947 : INFO : Opening Lip Balm category
+2026-05-23 03:52:25,107 : INFO : Opening third product
+2026-05-23 03:52:25,186 : INFO : Selecting size if available
+2026-05-23 03:52:26,442 : INFO : Adding product to bag
+2026-05-23 03:52:26,596 : INFO : Completed scenario: Add Lip Balm to Cart
+2026-05-23 03:52:29,115 : INFO : Starting scenario: Search Invalid Product
+2026-05-23 03:52:30,397 : INFO : Opening Myntra homepage
+2026-05-23 03:52:34,965 : INFO : Searching invalid product
+2026-05-23 03:52:37,607 : INFO : Verifying invalid search results
+2026-05-23 03:52:37,846 : INFO : Completed scenario: Search Invalid Product
+2026-05-23 03:52:40,250 : INFO : Starting scenario: Add Product Without Selecting Size
+2026-05-23 03:52:41,591 : INFO : Opening product page
+2026-05-23 03:52:47,919 : INFO : Clicking Add to Bag without selecting size
+2026-05-23 03:52:48,033 : INFO : Verifying negative scenario
+2026-05-23 03:52:48,123 : INFO : Completed scenario: Add Product Without Selecting Size
+2026-05-23 03:52:50,753 : INFO : Behave completed with status code: 0
+2026-05-23 03:52:50,753 : INFO : Generating Allure Report
+2026-05-23 03:52:53,085 : INFO : Allure report generated with status code: 0
+2026-05-23 03:52:53,085 : INFO : Opening Allure Report
+2026-05-23 03:57:08,895 : INFO : ========================================
+2026-05-23 03:57:08,896 : INFO : AUTOMATION EXECUTION STARTED
+2026-05-23 03:57:08,896 : INFO : Deleting old allure-results folder
+2026-05-23 03:57:08,908 : INFO : Deleting old allure-report folder
+2026-05-23 03:57:08,929 : INFO : Starting Behave Execution
+2026-05-23 03:57:09,645 : INFO : ========================================
+2026-05-23 03:57:09,646 : INFO : STARTING SCENARIO : Complete beauty purchase flow
+2026-05-23 03:57:36,509 : INFO : SCENARIO STATUS : Status.passed
+2026-05-23 03:57:39,024 : INFO : COMPLETED SCENARIO : Complete beauty purchase flow
+2026-05-23 03:57:39,024 : INFO : ========================================
+2026-05-23 03:57:39,026 : INFO : ========================================
+2026-05-23 03:57:39,028 : INFO : STARTING SCENARIO : Navigate to Beauty Menu
+2026-05-23 03:57:40,565 : INFO : Opening Myntra homepage
+2026-05-23 03:57:43,777 : INFO : Hovering over Beauty menu
+2026-05-23 03:57:46,106 : INFO : Checking Lip Balm category visibility
+2026-05-23 03:57:47,494 : INFO : SCENARIO STATUS : Status.passed
+2026-05-23 03:57:49,932 : INFO : COMPLETED SCENARIO : Navigate to Beauty Menu
+2026-05-23 03:57:49,932 : INFO : ========================================
+2026-05-23 03:57:49,935 : INFO : ========================================
+2026-05-23 03:57:49,935 : INFO : STARTING SCENARIO : Open Product from Homepage
+2026-05-23 03:57:51,131 : INFO : Opening Myntra homepage
+2026-05-23 03:57:57,620 : INFO : Closing popup if present
+2026-05-23 03:58:02,691 : INFO : Hovering over Beauty menu
+2026-05-23 03:58:04,990 : INFO : Opening Lip Balm category
+2026-05-23 03:58:07,073 : INFO : Opening first product
+2026-05-23 03:58:07,150 : INFO : Verifying product page
+2026-05-23 03:58:07,160 : INFO : SCENARIO STATUS : Status.passed
+2026-05-23 03:58:09,630 : INFO : COMPLETED SCENARIO : Open Product from Homepage
+2026-05-23 03:58:09,630 : INFO : ========================================
+2026-05-23 03:58:09,632 : INFO : ========================================
+2026-05-23 03:58:09,632 : INFO : STARTING SCENARIO : Open Lip Balm Listings
+2026-05-23 03:58:10,767 : INFO : Opening Myntra homepage
+2026-05-23 03:58:14,021 : INFO : Closing popup if present
+2026-05-23 03:58:19,071 : INFO : Hovering over Beauty menu
+2026-05-23 03:58:21,366 : INFO : Opening Lip Balm category
+2026-05-23 03:58:22,768 : INFO : Verifying Lip Balm listing page
+2026-05-23 03:58:22,773 : INFO : SCENARIO STATUS : Status.passed
+2026-05-23 03:58:25,170 : INFO : COMPLETED SCENARIO : Open Lip Balm Listings
+2026-05-23 03:58:25,170 : INFO : ========================================
+2026-05-23 03:58:25,171 : INFO : ========================================
+2026-05-23 03:58:25,171 : INFO : STARTING SCENARIO : Add Lip Balm to Cart
+2026-05-23 03:58:26,302 : INFO : Opening Myntra homepage
+2026-05-23 03:58:29,627 : INFO : Hovering over Beauty menu
+2026-05-23 03:58:31,933 : INFO : Opening Lip Balm category
+2026-05-23 03:58:33,363 : INFO : Opening third product
+2026-05-23 03:58:33,448 : INFO : Selecting size if available
+2026-05-23 03:58:34,657 : INFO : Adding product to bag
+2026-05-23 03:58:34,815 : INFO : SCENARIO STATUS : Status.passed
+2026-05-23 03:58:37,300 : INFO : COMPLETED SCENARIO : Add Lip Balm to Cart
+2026-05-23 03:58:37,300 : INFO : ========================================
+2026-05-23 03:58:37,302 : INFO : ========================================
+2026-05-23 03:58:37,302 : INFO : STARTING SCENARIO : Search Invalid Product
+2026-05-23 03:58:38,441 : INFO : Opening Myntra homepage
+2026-05-23 03:58:42,577 : INFO : Searching invalid product
+2026-05-23 03:58:44,808 : INFO : Verifying invalid search results
+2026-05-23 03:58:44,967 : INFO : SCENARIO STATUS : Status.passed
+2026-05-23 03:58:47,327 : INFO : COMPLETED SCENARIO : Search Invalid Product
+2026-05-23 03:58:47,327 : INFO : ========================================
+2026-05-23 03:58:47,328 : INFO : ========================================
+2026-05-23 03:58:47,328 : INFO : STARTING SCENARIO : Add Product Without Selecting Size
+2026-05-23 03:58:48,462 : INFO : Opening product page
+2026-05-23 03:58:54,114 : INFO : Clicking Add to Bag without selecting size
+2026-05-23 03:58:54,189 : INFO : Verifying negative scenario
+2026-05-23 03:58:54,254 : INFO : SCENARIO STATUS : Status.passed
+2026-05-23 03:58:56,750 : INFO : COMPLETED SCENARIO : Add Product Without Selecting Size
+2026-05-23 03:58:56,750 : INFO : ========================================
+2026-05-23 03:58:56,814 : INFO : Behave completed with status code: 0
+2026-05-23 03:58:56,814 : INFO : Generating Allure Report
+2026-05-23 03:58:59,180 : INFO : Allure report generated with status code: 0
+2026-05-23 03:58:59,180 : INFO : Opening Allure Report

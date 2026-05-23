@@ -3,32 +3,22 @@ from selenium.webdriver.common.by import By
 
 class BeautyLocators:
 
+    SEARCH_BOX = (
+        By.CLASS_NAME,
+        "desktop-searchBar"
+    )
+
     BEAUTY_MENU = (
         By.XPATH,
         "//a[@data-group='beauty']"
     )
 
-    LIP_BALM = (
-        By.XPATH,
-        "//a[text()='Lip Balm']"
-    )
-
-    PRODUCT_LIST = (
-        By.CLASS_NAME,
-        "product-base"
-    )
-
-    PRODUCT_LINKS = (
+    PRODUCTS = (
         By.XPATH,
         "//li[contains(@class,'product-base')]//a"
     )
 
-    PRODUCT_TITLE = (
-        By.CLASS_NAME,
-        "pdp-title"
-    )
-
-    SIZE_OPTION = (
+    SIZE = (
         By.XPATH,
         "(//div[contains(@class,'size-buttons-size-button') or contains(@class,'size-buttons-unified-size')])[1]"
     )
@@ -41,6 +31,11 @@ class BeautyLocators:
     GO_TO_BAG = (
         By.XPATH,
         "//span[contains(text(),'GO TO BAG')]"
+    )
+
+    SEARCH_HEADING = (
+        By.CLASS_NAME,
+        "title-title"
     )
 
     CART_ITEM = (
@@ -58,7 +53,7 @@ class BeautyLocators:
         "(//div[contains(@class,'dialogs-base-item')])[2]"
     )
 
-    DONATION_10 = (
+    DONATION = (
         By.XPATH,
         "//div[contains(.,'₹10')]"
     )
@@ -71,4 +66,9 @@ class BeautyLocators:
     POPUP_CLOSE = (
         By.XPATH,
         "//span[contains(@class,'desktop-iconClose')]"
+    )
+
+    PDP_TITLE = (
+        By.CLASS_NAME,
+        "pdp-title"
     )

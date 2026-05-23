@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","16918","Open Product from Homepage","","2026-05-23","passed","2026-05-23","","","",""
+"","15833","Open Lip Balm Listings","","2026-05-23","passed","2026-05-23","","","",""
+"","12562","Add Lip Balm to Cart","","2026-05-23","passed","2026-05-23","","","",""
+"","11871","Navigate to Beauty Menu","","2026-05-23","passed","2026-05-23","","","",""
+"","30447","Complete beauty purchase flow","","2026-05-23","passed","2026-05-23","","","",""
+"","9251","Add Product Without Selecting Size","","2026-05-23","passed","2026-05-23","","","",""
+"","12053","Search Invalid Product","","2026-05-23","passed","2026-05-23","","","",""
