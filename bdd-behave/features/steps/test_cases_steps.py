@@ -1,7 +1,7 @@
 from behave import given, when, then
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
+from utils.screenshot_util import ScreenshotUtil
 from pages.home_page import HomePage
 from pages.beauty_page import BeautyPage
 from utils.config_reader import ConfigReader

@@ -1077,10 +1077,3 @@
 2026-05-23 22:44:52,983 : INFO : Clicking Add to Bag without selecting size
 2026-05-23 22:44:53,064 : INFO : Verifying negative scenario
 2026-05-23 22:44:53,131 : INFO : SCENARIO STATUS: Status.passed
-2026-05-23 22:44:53,380 : INFO : Log file attached to Allure
-2026-05-23 22:44:55,549 : INFO : COMPLETED SCENARIO: Add Product Without Selecting Size
-2026-05-23 22:44:55,549 : INFO : ===================================
-2026-05-23 22:44:55,729 : INFO : Behave completed with status code: 0
-2026-05-23 22:44:55,729 : INFO : Generating Allure Report
-2026-05-23 22:44:58,700 : INFO : Allure report generated with status code: 0
-2026-05-23 22:44:58,700 : INFO : Opening Allure Report

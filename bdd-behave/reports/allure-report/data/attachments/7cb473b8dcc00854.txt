@@ -1059,28 +1059,3 @@
 2026-05-23 22:44:31,051 : INFO : Selecting size if available
 2026-05-23 22:44:33,728 : INFO : Adding product to bag
 2026-05-23 22:44:33,896 : INFO : SCENARIO STATUS: Status.passed
-2026-05-23 22:44:34,090 : INFO : Log file attached to Allure
-2026-05-23 22:44:36,310 : INFO : COMPLETED SCENARIO: Add Lip Balm to Cart
-2026-05-23 22:44:36,312 : INFO : ===================================
-2026-05-23 22:44:36,315 : INFO : ===================================
-2026-05-23 22:44:36,315 : INFO : STARTING SCENARIO: Search Invalid Product -- @1.1 
-2026-05-23 22:44:37,898 : INFO : Opening Myntra homepage
-2026-05-23 22:44:41,699 : INFO : Searching invalid product
-2026-05-23 22:44:44,195 : INFO : Verifying invalid search results
-2026-05-23 22:44:44,393 : INFO : SCENARIO STATUS: Status.passed
-2026-05-23 22:44:44,541 : INFO : Log file attached to Allure
-2026-05-23 22:44:46,776 : INFO : COMPLETED SCENARIO: Search Invalid Product -- @1.1 
-2026-05-23 22:44:46,777 : INFO : ===================================
-2026-05-23 22:44:46,780 : INFO : ===================================
-2026-05-23 22:44:46,780 : INFO : STARTING SCENARIO: Add Product Without Selecting Size
-2026-05-23 22:44:48,141 : INFO : Opening product page
-2026-05-23 22:44:52,983 : INFO : Clicking Add to Bag without selecting size
-2026-05-23 22:44:53,064 : INFO : Verifying negative scenario
-2026-05-23 22:44:53,131 : INFO : SCENARIO STATUS: Status.passed
-2026-05-23 22:44:53,380 : INFO : Log file attached to Allure
-2026-05-23 22:44:55,549 : INFO : COMPLETED SCENARIO: Add Product Without Selecting Size
-2026-05-23 22:44:55,549 : INFO : ===================================
-2026-05-23 22:44:55,729 : INFO : Behave completed with status code: 0
-2026-05-23 22:44:55,729 : INFO : Generating Allure Report
-2026-05-23 22:44:58,700 : INFO : Allure report generated with status code: 0
-2026-05-23 22:44:58,700 : INFO : Opening Allure Report
