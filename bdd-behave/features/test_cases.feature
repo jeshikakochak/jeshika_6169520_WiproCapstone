@@ -29,10 +29,13 @@ Feature: Myntra Beauty Test Cases
     And user adds product to bag for test cases
     Then product should be added to cart
 
-  Scenario: Search Invalid Product
+  Scenario Outline: Search Invalid Product
     Given user opens Myntra homepage for test cases
     When user searches invalid product
     Then invalid search results should be displayed
+    Examples:
+      | product       |
+      | xyzlipbalm999 |
 
   Scenario: Add Product Without Selecting Size
     Given user opens product page

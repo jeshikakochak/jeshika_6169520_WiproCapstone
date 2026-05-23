@@ -1,6 +1,6 @@
 Feature: Myntra Beauty End to End Flow
 
-  Scenario: Complete beauty purchase flow
+  Scenario Outline: Complete beauty purchase flow
     Given user opens Myntra homepage for end to end
     When user closes popup if present
     And user hovers over beauty menu
@@ -15,3 +15,6 @@ Feature: Myntra Beauty End to End Flow
     And user selects ₹10 donation
     And user clicks place order
     Then user should be redirected to login page
+    Examples:
+      | category |
+      | Lip Balm |
