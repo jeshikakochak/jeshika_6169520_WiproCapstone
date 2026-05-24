@@ -1,0 +1,48 @@
+2026-05-24 14:51:41,908 : INFO : Opened Myntra homepage
+2026-05-24 14:51:48,328 : INFO : Entered invalid product in search
+2026-05-24 14:51:48,370 : INFO : Invalid search testcase passed
+2026-05-24 14:52:21,417 : INFO : Opened product page
+2026-05-24 14:52:21,430 : INFO : Multiple size options verified
+2026-05-24 14:52:21,533 : INFO : Clicked Add to Bag without selecting size
+2026-05-24 14:52:26,629 : INFO : Negative testcase passed successfully
+2026-05-24 14:52:41,852 : INFO : Opening Myntra homepage
+2026-05-24 14:52:59,133 : INFO : Locating Beauty menu
+2026-05-24 14:52:59,164 : INFO : Hovering over Beauty menu
+2026-05-24 14:53:02,447 : INFO : Checking Lip Balm visibility
+2026-05-24 14:53:02,465 : INFO : Beauty navigation test passed
+2026-05-24 14:53:20,239 : INFO : Opening Myntra homepage
+2026-05-24 14:53:37,654 : INFO : Checking popup
+2026-05-24 14:53:42,740 : INFO : No popup found
+2026-05-24 14:53:42,741 : INFO : Hovering over Beauty menu
+2026-05-24 14:53:45,041 : INFO : Clicking Lip Balm
+2026-05-24 14:53:51,025 : INFO : Opening first product
+2026-05-24 14:53:51,144 : INFO : Waiting for product page
+2026-05-24 14:54:01,644 : INFO : Homepage to product test passed
+2026-05-24 14:54:19,630 : INFO : Opening Myntra homepage
+2026-05-24 14:55:09,918 : INFO : Opening Myntra homepage
+2026-05-24 14:55:22,707 : INFO : Hovering over Beauty menu
+2026-05-24 14:55:26,014 : INFO : Opening Lip Balm category
+2026-05-24 14:55:32,502 : INFO : Selecting product
+2026-05-24 14:55:44,399 : INFO : Selecting size if required
+2026-05-24 14:55:44,549 : INFO : Adding product to cart
+2026-05-24 14:55:44,655 : INFO : Verifying cart
+2026-05-24 14:55:45,202 : INFO : Add to cart test passed
+2026-05-24 14:56:01,187 : INFO : Starting E2E test for Lip Balm
+2026-05-24 14:56:19,912 : INFO : Checking popup
+2026-05-24 14:56:25,002 : INFO : No popup found
+2026-05-24 14:56:25,002 : INFO : Hovering over Beauty menu
+2026-05-24 14:56:25,464 : INFO : Selecting product category: Lip Balm
+2026-05-24 14:56:39,553 : INFO : Waiting for product listings
+2026-05-24 14:56:39,574 : INFO : Opening first product
+2026-05-24 14:56:39,627 : INFO : Switched to new tab
+2026-05-24 14:56:39,627 : INFO : Waiting for product page
+2026-05-24 14:56:42,534 : INFO : Selecting size
+2026-05-24 14:56:42,571 : INFO : Adding product to bag
+2026-05-24 14:56:42,608 : INFO : Going to bag
+2026-05-24 14:56:46,431 : INFO : Waiting for cart
+2026-05-24 14:56:46,552 : INFO : Opening quantity dropdown
+2026-05-24 14:56:46,607 : INFO : Changing quantity to 2
+2026-05-24 14:56:47,735 : INFO : Selecting donation
+2026-05-24 14:56:47,766 : INFO : Clicking Place Order
+2026-05-24 14:56:51,501 : INFO : Waiting for login redirect
+2026-05-24 14:56:51,682 : INFO : E2E test passed successfully

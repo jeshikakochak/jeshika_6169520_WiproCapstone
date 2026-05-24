@@ -1,0 +1,5 @@
+[32mINFO    [0m root:utils.py:317 Chromedriver is already installed.
+[32mINFO    [0m automation:test_negative.py:76 Opened product page
+[32mINFO    [0m automation:test_negative.py:87 Multiple size options verified
+[32mINFO    [0m automation:test_negative.py:99 Clicked Add to Bag without selecting size
+[32mINFO    [0m automation:test_negative.py:114 Negative testcase passed successfully

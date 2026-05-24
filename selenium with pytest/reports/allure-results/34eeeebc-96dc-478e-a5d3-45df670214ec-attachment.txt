@@ -1,0 +1,9 @@
+[32mINFO    [0m root:utils.py:317 Chromedriver is already installed.
+[32mINFO    [0m automation:test_positive.py:209 Opening Myntra homepage
+[32mINFO    [0m automation:test_positive.py:213 Hovering over Beauty menu
+[32mINFO    [0m automation:test_positive.py:225 Opening Lip Balm category
+[32mINFO    [0m automation:test_positive.py:237 Selecting product
+[32mINFO    [0m automation:test_positive.py:257 Selecting size if required
+[32mINFO    [0m automation:test_positive.py:271 Adding product to cart
+[32mINFO    [0m automation:test_positive.py:283 Verifying cart
+[32mINFO    [0m automation:test_positive.py:293 Add to cart test passed

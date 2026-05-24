@@ -1,0 +1,8 @@
+2026-05-24 14:30:46,691 : INFO : Opened Myntra homepage
+2026-05-24 14:30:49,997 : INFO : Entered invalid product in search
+2026-05-24 14:30:50,050 : INFO : Invalid search testcase passed
+2026-05-24 14:31:15,734 : INFO : Opened product page
+2026-05-24 14:31:15,758 : INFO : Multiple size options verified
+2026-05-24 14:31:15,911 : INFO : Clicked Add to Bag without selecting size
+2026-05-24 14:31:21,148 : INFO : Negative testcase passed successfully
+2026-05-24 14:31:37,171 : INFO : Opening Myntra homepage
